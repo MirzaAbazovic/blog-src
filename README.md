@@ -1,1 +1,1 @@
-##Source for [https://mirzaabazovic.github.io/blog/]
+##Source for https://mirzaabazovic.github.io/blog/
